@@ -4,7 +4,7 @@
     {
         public void HelloWorld()
         {
-            Console.WriteLine("Native repo: Hello World! Tag 0.1");
+            Console.WriteLine("Native repo: Hello World! Tag 0.2");
         }
     }
 }
