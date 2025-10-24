@@ -2,9 +2,9 @@
 {
     public class NativeClass
     {
-        public void HelloWord()
+        public void HelloWorld()
         {
-            Console.WriteLine("Native repo: Hello World!");
+            Console.WriteLine("Native repo: Hello World! Tag 0.1");
         }
     }
 }
